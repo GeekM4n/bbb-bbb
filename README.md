@@ -1,4 +1,4 @@
-# NOTE: This is an unsupported fork. If you are interested on the BigBlueButton-Greenlight project, please visit the official project page (https://github.com/bigbluebutton/bigbluebutton).  
+# NOTE: This is an unsupported fork. If you are interested on the BigBlueButton project, please visit the official project page (https://github.com/bigbluebutton/bigbluebutton).  
 
 ---
 
